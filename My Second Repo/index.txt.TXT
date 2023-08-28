@@ -1,0 +1,2 @@
+this snindex file
+version 2
